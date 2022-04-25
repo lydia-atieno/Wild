@@ -35,7 +35,7 @@
 #header .brand{
     display: flex;
     flex-direction: row;
-    margin-left: 100px;
+    margin-left: 120px;
 }
 #header img{
     margin-top: 5px;
@@ -190,7 +190,7 @@
 /*End header section*/
 
 #main .main{
-    min-height: 1320vh;
+    min-height: 1350vh;
 }
 #main .title{
     font-size: px;
